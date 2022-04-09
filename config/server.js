@@ -1,6 +1,5 @@
 
 
-
 module.exports = ({ env }) => ({
   url: env("https://jazeera-travels.herokuapp.com/"),
   proxy: true,
